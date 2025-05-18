@@ -23,7 +23,7 @@ Tu dois avoir les librairies suivantes installées :
 
 - **SDL2**
 - **SDL2_ttf**
-- Un fichier `.ttf` (ex: FreeSans.ttf) dans le dossier pour le rendu texte
+- Un fichier `.ttf` (ex: FreeSans.ttf) il y a deja des fonts intégrées mais tu peut y customiser!
 
 ---
 
