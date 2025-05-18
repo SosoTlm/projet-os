@@ -1,4 +1,3 @@
-"""
 # 💻 ProjetOS – Template Faux OS en SDL2 (1 fichier)
 
 Bienvenue dans **ProjetOS**, un faux système d’exploitation développé en C avec la bibliothèque SDL2.
