@@ -28,9 +28,10 @@ Tu dois avoir les librairies suivantes installées :
 ---
 
 ## 🛠️ Compilation (Linux / WSL)
+> A faire dans le répèrtoire ou se trouve le script!
 
 ```bash
-gcc main.c -o VanilleOS $(sdl2-config --cflags --libs) -lSDL2_ttf
+gcc main.c -o main.c $(sdl2-config --cflags --libs) -lSDL2_ttf
 ```
 - Sur Windows, utilise MinGW avec les bons headers SDL2.
 
